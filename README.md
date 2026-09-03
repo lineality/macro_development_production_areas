@@ -4,7 +4,7 @@
 # Macro Development & Production Areas
 2026.09.01 Geoffrey Gordon Ashbrook
 
-1. User & Development Community Engagement
+### 1. User & Development Community Engagement
 - Needs & Goals Evaluation
 - Empirical Participation
 See: (SQLite-rust interview)
@@ -13,16 +13,16 @@ https://www.youtube.com/watch?v=1JHOY0zqNBY
 - A great discussion of how tricky it can be to interpret and map features, userfulness and future-development plans.
 
 
-2. Feature Selection
+### 2. Feature Selection
 - Over time
 - with feedback from users including using early versions
 
 
-3. Architecture
+### 3. Architecture
 - 'build it, build it better, build it right': it takes more than one build to find least-worst architectures
 
 
-4. General Sequence:
+### 4. General Sequence:
 Phase 1. Product/User 'Market Research'
 (Who uses and developed it for what, regardless of whether it is a commercial product or an open source utility.)
 
@@ -42,7 +42,7 @@ Phase 5. Production Architecture 1-N
 - "Build it, build it better, build it right." Expect to need to rebuild from scratch several times until arriving at a mature design and feature-set.
 
 
-5. Policy & Perception
+### 5. Policy & Perception
 - Value, function, and meaning
 - Recreation, R&R
 - Fads & Illusions
